@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+#primeNumber {
+    font-size: 5em;
+    color: white;
+    user-select: none;
+}
